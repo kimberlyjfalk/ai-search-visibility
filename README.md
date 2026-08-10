@@ -25,6 +25,8 @@ The objective wasn't to optimize for an algorithm.
 
 It was to improve how the market **finds, understands, compares, and evaluates the brand**.
 
+![Managing Brand Representation in AI Discovery](ai-brand-representation-system.png)
+
 ## The Problem
 
 Traditional SEO is built largely around a familiar model:
